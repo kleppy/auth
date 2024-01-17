@@ -1,7 +1,7 @@
 ## Description
 
 
-![Alt text](assets/images/auth.jpg?raw=true "Auth frontpage")
+![Alt text](assets/images/auth.png?raw=true "Auth frontpage")
 source: stackoverflow
 
 
@@ -17,7 +17,7 @@ The password screen should clear everytime a new one is generated.
 
 
 ##
-Link: https://kleppy.github.io/auytgh
+Link: https://kleppy.github.io/authh
 
 ## Credits
 
