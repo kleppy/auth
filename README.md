@@ -17,7 +17,7 @@ The password screen should clear everytime a new one is generated.
 
 
 ##
-Link: https://kleppy.github.io/authh
+Link: https://kleppy.github.io/auth
 
 ## Credits
 
